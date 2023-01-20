@@ -36,12 +36,12 @@ Este é um projeto de Front-end , desenvolvido no bootcamp da Labenu, cujo a pro
 
 ## ☑️Requisitos de Funcionalidade
 
-- [ ] Adiconar produtos no carrinho
-- [ ] Remover produtos do carrinho
-- [ ] Salvar produtos do carrinho no localStorage do navegador
-- [ ] Filtragem de produtos por nome, valor mínimo e valor máximo
-- [ ] Ordenação por order crescente e decrescente
-- [ ] Responsividade
+- [v] Adiconar produtos no carrinho
+- [v] Remover produtos do carrinho
+- [v] Salvar produtos do carrinho no localStorage do navegador
+- [v] Filtragem de produtos por nome, valor mínimo e valor máximo
+- [v] Ordenação por order crescente e decrescente
+- [v] Responsividade
 
 
 ![Pagina inicial](./src/img/snap-ecomerce2.png)
